@@ -12,6 +12,8 @@ namespace Character_Calculator
 {
     public partial class form_main : Form
     {
+        //test
+
         string program_version = "Program Version: 0.1.1.1";
         string game_version = "Game Version: 0.2.4.2";
 
