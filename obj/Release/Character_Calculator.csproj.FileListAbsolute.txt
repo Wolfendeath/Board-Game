@@ -1,0 +1,17 @@
+G:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.exe.config
+G:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.exe
+G:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.pdb
+G:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.form_main.resources
+G:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.Properties.Resources.resources
+G:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.csproj.GenerateResource.Cache
+G:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.exe
+G:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.pdb
+F:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.exe.config
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.exe
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.pdb
+F:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.exe
+F:\Board Game\Class_Calculator\Class_Calculator\bin\Release\Character_Calculator.pdb
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.csprojResolveAssemblyReference.cache
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.form_main.resources
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.Properties.Resources.resources
+F:\Board Game\Class_Calculator\Class_Calculator\obj\Release\Character_Calculator.csproj.GenerateResource.Cache
